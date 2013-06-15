@@ -1,7 +1,0 @@
-obj/Release/ios/ObjCRuntime/Messaging.g.cs
-obj/Release/ios/MMedia/MMAdView.g.cs
-obj/Release/ios/MMedia/MmiNterstitial.g.cs
-obj/Release/ios/MMedia/MMRequest.g.cs
-obj/Release/ios/MMedia/MMSDK.g.cs
-obj/Release/ios/ObjCRuntime/Trampolines.g.cs
-obj/Release/ios/ObjCRuntime/Libraries.g.cs
